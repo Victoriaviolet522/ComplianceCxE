@@ -361,9 +361,10 @@ It is important to take these into consideration not only when planning your DLP
     - [https://filebin.net](https://filebin.net) – excellent for testing HTTP post/upload actions 
     
     - [https://dlptest.com](https://dlptest.com) – provides several testing options as well as samples for common restricted items such as credit card numbers, SSN, etc.
+    - [https://rndgenerator.com/](https://rndgenerator.com/) - Provides you to generate random phone number all around the world.
     
     - [https://fauxid.com/](https://fauxid.com/) - Provides you with data that can be used to generate SSN, credit card numbers etc.
-
+    
 * [Migrating from Exchange Transport Rules to Unified DLP - The complete playbook](https://techcommunity.microsoft.com/t5/microsoft-security-and/migrating-from-exchange-transport-rules-to-unified-dlp-the/ba-p/1749723)
 
 * [Train End Users for adoption of sensitivity labels](../../enduser/sensitivity/)
