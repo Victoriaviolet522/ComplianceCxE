@@ -361,6 +361,7 @@ It is important to take these into consideration not only when planning your DLP
     - [https://filebin.net](https://filebin.net) – excellent for testing HTTP post/upload actions 
     
     - [https://dlptest.com](https://dlptest.com) – provides several testing options as well as samples for common restricted items such as credit card numbers, SSN, etc.
+    - [https://rndgenerator.com](https://rndgenerator.com) provides you guide to generate unique phone numbers from all over the world.
     
     - [https://fauxid.com/](https://fauxid.com/) - Provides you with data that can be used to generate SSN, credit card numbers etc.
 
